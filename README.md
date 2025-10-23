@@ -76,4 +76,4 @@ A simple React Native app where the user can add their favorite clothing brands 
 
 ### **Prepared By: **
 **Hernz N. Ramones**  
-Laboratory 3 — Mobile Application Development  
+Laboratory 3: DCIT 26 – Application Development and Emerging Technologies  
